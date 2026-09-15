@@ -1,0 +1,12 @@
+/core/vendor/
+/core/.env
+/core/storage/*.key
+/core/storage/framework/cache/*
+/core/storage/framework/sessions/*
+/core/storage/framework/views/*
+/core/storage/logs/*
+Infulab.zip
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
